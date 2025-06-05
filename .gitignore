@@ -1,0 +1,13 @@
+.DS_Store
+
+.env
+**/.venv
+
+**/.idea
+
+__pycache__
+
+node_modules
+
+chroma_db
+.cache

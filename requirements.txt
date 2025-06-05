@@ -1,0 +1,6 @@
+torch>=2.1.0  # Use the version appropriate for your CUDA setup
+transformers>=4.39.0
+accelerate>=0.24.0
+bitsandbytes>=0.42.0
+einops>=0.6.1
+huggingface-hub>=0.20.0
